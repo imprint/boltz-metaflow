@@ -1,0 +1,51 @@
+name: benchmark1
+
+complexes:
+  - name: 8uzc
+    pdb: 8uzc
+    heavy_chain: H
+    light_chain: L
+    antigen_chain: A
+
+  - name: 8cyh
+    pdb: 8cyh
+    heavy_chain: H
+    light_chain: L
+    antigen_chain: M
+
+  - name: 8e7m
+    pdb: 8e7m
+    heavy_chain: H
+    light_chain: L
+    antigen_chain: A
+
+  - name: 8rz2
+    pdb: 8rz2
+    heavy_chain: B
+    light_chain: C
+    antigen_chain: A
+
+  - name: 8sml
+    pdb: 8sml
+    heavy_chain: C
+    light_chain: B
+    antigen_chain: A
+
+  - name: 8vvl
+    pdb: 8vvl
+    heavy_chain: H
+    light_chain: L
+    antigen_chain: A
+
+  - name: 8tlm
+    pdb: 8tlm
+    heavy_chain: A
+    light_chain: B
+    antigen_chain: C
+
+  - name: 8ahn
+    pdb: 8ahn
+    heavy_chain: H
+    light_chain: L
+    antigen_chain: A
+
