@@ -1,5 +1,7 @@
 # boltz-metaflow
-Scripts for running the [boltz-1](https://github.com/jwohlwend/boltz) protein structure prediction model on AWS using [metaflow](https://metaflow.org/).
+Scripts for running the [boltz-1](https://github.com/jwohlwend/boltz) protein structure prediction model on the cloud using [metaflow](https://metaflow.org/).
+
+The examples here are focused on benchmarking accuracy on antibody/antigen complexes but the infrastructure should be readily adaptable to other uses.
 
 ## Set up
 Install the package:
